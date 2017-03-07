@@ -10,6 +10,6 @@
    
 4. This is a great course which gave me a general ideas of data science. 
    I think this course is the basis of data mining and advanced database system.
-5. I just upload my two paper report after this course 
+5. I just upload my two paper reports after this course 
  
  
