@@ -1,5 +1,5 @@
 1. This is Carleton Comptuer Science & Data Science graduate course
-2. This is a theory course and combine with some mathematic prove.
+2. This is a theory course and combines with some mathematic prove.
 3. From course syllabus:
    
    Topics include advanced data modeling,semantic modeling, multidimensional databases and data warehousing, on-lineanalytical
