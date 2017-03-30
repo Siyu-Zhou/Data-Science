@@ -1,3 +1,6 @@
+#THIS is the draft I used tos write the code I tried in this project
+#So, the code is not clean and in good formant, but I just used some code like this to do data cleaning
+#I am not going tos make this code tidy!
 setwd("D:/2017Winter/5000/project/")
 getwd()
 install.packages(c("Rcpp", "readr"))
